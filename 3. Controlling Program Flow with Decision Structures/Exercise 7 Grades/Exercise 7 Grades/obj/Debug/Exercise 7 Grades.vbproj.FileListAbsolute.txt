@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\bin\Debug\Exercise 7 Grades.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\bin\Debug\Exercise 7 Grades.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\bin\Debug\Exercise 7 Grades.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\bin\Debug\Exercise 7 Grades.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise_7_Grades.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise_7_Grades.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 7 Grades\Exercise 7 Grades\obj\Debug\Exercise 7 Grades.pdb

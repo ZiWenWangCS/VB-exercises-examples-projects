@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\bin\Debug\Excercise 4.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\bin\Debug\Excercise 4.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\bin\Debug\Excercise 4.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\bin\Debug\Excercise 4.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise_4.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise_4.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise 4.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise 4.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise 4.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise 4.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 4\Excercise 4\obj\Debug\Excercise 4.pdb

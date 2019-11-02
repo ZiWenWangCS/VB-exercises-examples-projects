@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\bin\Debug\Exercise 5 AlarmSystem.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\bin\Debug\Exercise 5 AlarmSystem.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\bin\Debug\Exercise 5 AlarmSystem.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\bin\Debug\Exercise 5 AlarmSystem.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise_5_AlarmSystem.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise_5_AlarmSystem.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 5 AlarmSystem\Exercise 5 AlarmSystem\obj\Debug\Exercise 5 AlarmSystem.vbprojResolveAssemblyReference.cache

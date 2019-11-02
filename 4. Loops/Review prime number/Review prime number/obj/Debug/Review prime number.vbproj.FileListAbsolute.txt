@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review_prime_number.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review_prime_number.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\bin\Debug\Review prime number.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\bin\Debug\Review prime number.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\bin\Debug\Review prime number.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\bin\Debug\Review prime number.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review prime number\Review prime number\obj\Debug\Review prime number.pdb

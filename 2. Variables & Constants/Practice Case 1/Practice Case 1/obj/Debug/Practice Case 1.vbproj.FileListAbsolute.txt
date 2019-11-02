@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\bin\Debug\Practice Case 1.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\bin\Debug\Practice Case 1.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\bin\Debug\Practice Case 1.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\bin\Debug\Practice Case 1.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice_Case_1.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice_Case_1.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Case 1\Practice Case 1\obj\Debug\Practice Case 1.pdb

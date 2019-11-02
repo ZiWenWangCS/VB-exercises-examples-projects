@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\bin\Debug\test Case.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\bin\Debug\test Case.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\bin\Debug\test Case.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\bin\Debug\test Case.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test_Case.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test_Case.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\test Case\test Case\obj\Debug\test Case.pdb

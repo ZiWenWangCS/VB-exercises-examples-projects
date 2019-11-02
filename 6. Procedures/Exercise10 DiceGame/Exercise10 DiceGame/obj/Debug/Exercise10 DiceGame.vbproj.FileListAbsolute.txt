@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\bin\Debug\Exercise10 DiceGame.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\bin\Debug\Exercise10 DiceGame.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\bin\Debug\Exercise10 DiceGame.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\bin\Debug\Exercise10 DiceGame.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10_DiceGame.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10_DiceGame.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise10 DiceGame\Exercise10 DiceGame\obj\Debug\Exercise10 DiceGame.pdb

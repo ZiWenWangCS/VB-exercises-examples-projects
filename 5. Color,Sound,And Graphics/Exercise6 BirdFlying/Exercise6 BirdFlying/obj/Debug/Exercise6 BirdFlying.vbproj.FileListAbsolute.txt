@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\bin\Debug\Exercise6 BirdFlying.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\bin\Debug\Exercise6 BirdFlying.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\bin\Debug\Exercise6 BirdFlying.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\bin\Debug\Exercise6 BirdFlying.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6_BirdFlying.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6_BirdFlying.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise6 BirdFlying\Exercise6 BirdFlying\obj\Debug\Exercise6 BirdFlying.vbprojResolveAssemblyReference.cache

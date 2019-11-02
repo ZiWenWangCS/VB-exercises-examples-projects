@@ -1,0 +1,84 @@
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+K:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+E:\Grade 10 Computer Science\4. Controlling Program Flow with Decision Structures\Unit Project\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+E:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.GenerateResource.Cache
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+F:\2014-2015\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.GenerateResource.Cache
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+E:\2015-2016\Grade 10 Computer Science\3. Controlling Program Flow with Decision Structures\Unit Project\1. TEMPLATE\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.GenerateResource.Cache
+G:\VM\EVERYONE\!!Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+G:\VM\EVERYONE\!!Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+G:\VM\EVERYONE\!!Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbprojResolveAssemblyReference.cache
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+G:\VM\EVERYONE\#Di Muro\1. GR 10 COMPUTER SCIENCE\2. Project Info\MackMan\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\bin\Debug\SuperMackMan.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\SuperMackMan\SuperMackMan\obj\x86\Debug\SuperMackMan.pdb

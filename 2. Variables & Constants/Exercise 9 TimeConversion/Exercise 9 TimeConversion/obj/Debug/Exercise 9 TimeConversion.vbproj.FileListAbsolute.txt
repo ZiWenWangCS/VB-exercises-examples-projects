@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\bin\Debug\Exercise 9 TimeConversion.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\bin\Debug\Exercise 9 TimeConversion.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\bin\Debug\Exercise 9 TimeConversion.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\bin\Debug\Exercise 9 TimeConversion.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise_9_TimeConversion.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise_9_TimeConversion.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 9 TimeConversion\Exercise 9 TimeConversion\obj\Debug\Exercise 9 TimeConversion.pdb

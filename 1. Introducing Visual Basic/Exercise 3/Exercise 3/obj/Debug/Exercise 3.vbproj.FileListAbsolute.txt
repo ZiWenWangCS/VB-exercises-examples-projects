@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\bin\Debug\Exercise 3.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\bin\Debug\Exercise 3.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise_3.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise_3.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 3\Exercise 3\obj\Debug\Exercise 3.pdb

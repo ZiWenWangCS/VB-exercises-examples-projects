@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\bin\Debug\Exercise 7 CircleCircumference.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\bin\Debug\Exercise 7 CircleCircumference.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\bin\Debug\Exercise 7 CircleCircumference.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\bin\Debug\Exercise 7 CircleCircumference.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise_7_CircleCircumference.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise_7_CircleCircumference.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise 7 CircleCircumference.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise 7 CircleCircumference.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise 7 CircleCircumference.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise 7 CircleCircumference.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Exercise 7 CircleCircumference\Exercise 7 CircleCircumference\obj\Debug\Exercise 7 CircleCircumference.pdb

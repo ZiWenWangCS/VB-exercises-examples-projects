@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\bin\Debug\Exercise 9 HiLoGame.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\bin\Debug\Exercise 9 HiLoGame.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\bin\Debug\Exercise 9 HiLoGame.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\bin\Debug\Exercise 9 HiLoGame.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise_9_HiLoGame.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise_9_HiLoGame.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 9 HiLoGame\Exercise 9 HiLoGame\obj\Debug\Exercise 9 HiLoGame.pdb

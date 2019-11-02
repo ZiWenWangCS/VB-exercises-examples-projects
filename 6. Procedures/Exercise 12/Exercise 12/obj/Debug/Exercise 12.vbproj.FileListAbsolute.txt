@@ -1,0 +1,11 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\bin\Debug\Exercise 12.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\bin\Debug\Exercise 12.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\bin\Debug\Exercise 12.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\bin\Debug\Exercise 12.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise_12.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise_12.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise 12.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise 12.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise 12.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise 12.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 12\Exercise 12\obj\Debug\Exercise 12.pdb

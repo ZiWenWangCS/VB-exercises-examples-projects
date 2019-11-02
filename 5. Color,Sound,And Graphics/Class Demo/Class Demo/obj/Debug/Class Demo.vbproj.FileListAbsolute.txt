@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\bin\Debug\Class Demo.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\bin\Debug\Class Demo.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\bin\Debug\Class Demo.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\bin\Debug\Class Demo.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class_Demo.btnClear.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class_Demo.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Class Demo\Class Demo\obj\Debug\Class Demo.pdb

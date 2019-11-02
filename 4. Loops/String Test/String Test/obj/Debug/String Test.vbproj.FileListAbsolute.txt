@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\bin\Debug\String Test.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\bin\Debug\String Test.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\bin\Debug\String Test.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\bin\Debug\String Test.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String_Test.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String_Test.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\String Test\String Test\obj\Debug\String Test.pdb

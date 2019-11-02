@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\bin\Debug\Exercise 3 BowlingScores.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\bin\Debug\Exercise 3 BowlingScores.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\bin\Debug\Exercise 3 BowlingScores.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\bin\Debug\Exercise 3 BowlingScores.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise_3_BowlingScores.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise_3_BowlingScores.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 3 BowlingScores\Exercise 3 BowlingScores\obj\Debug\Exercise 3 BowlingScores.pdb

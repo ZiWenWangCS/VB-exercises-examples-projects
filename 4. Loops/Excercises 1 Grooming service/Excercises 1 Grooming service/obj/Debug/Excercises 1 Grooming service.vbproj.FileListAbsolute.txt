@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\bin\Debug\Excercises 1 Grooming service.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\bin\Debug\Excercises 1 Grooming service.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\bin\Debug\Excercises 1 Grooming service.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\bin\Debug\Excercises 1 Grooming service.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises_1_Grooming_service.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises_1_Grooming_service.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Excercises 1 Grooming service\Excercises 1 Grooming service\obj\Debug\Excercises 1 Grooming service.pdb

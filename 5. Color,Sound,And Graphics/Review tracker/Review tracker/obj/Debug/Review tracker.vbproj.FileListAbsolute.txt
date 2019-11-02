@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\bin\Debug\Review tracker.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\bin\Debug\Review tracker.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\bin\Debug\Review tracker.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\bin\Debug\Review tracker.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review_tracker.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review_tracker.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review tracker\Review tracker\obj\Debug\Review tracker.vbprojResolveAssemblyReference.cache

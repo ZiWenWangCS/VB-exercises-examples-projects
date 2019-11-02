@@ -1,0 +1,11 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\bin\Debug\Exercise 3 ReduceFraction.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\bin\Debug\Exercise 3 ReduceFraction.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\bin\Debug\Exercise 3 ReduceFraction.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\bin\Debug\Exercise 3 ReduceFraction.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise_3_ReduceFraction.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise_3_ReduceFraction.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise 3 ReduceFraction.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise 3 ReduceFraction.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise 3 ReduceFraction.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise 3 ReduceFraction.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 3 ReduceFraction\Exercise 3 ReduceFraction\obj\Debug\Exercise 3 ReduceFraction.pdb

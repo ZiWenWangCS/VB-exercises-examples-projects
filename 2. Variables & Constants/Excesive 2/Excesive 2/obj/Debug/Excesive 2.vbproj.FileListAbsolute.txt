@@ -1,0 +1,12 @@
+J:\vm\Computer Science\Excesive 2\Excesive 2\bin\Debug\Excesive 2.exe.config
+J:\vm\Computer Science\Excesive 2\Excesive 2\bin\Debug\Excesive 2.exe
+J:\vm\Computer Science\Excesive 2\Excesive 2\bin\Debug\Excesive 2.pdb
+J:\vm\Computer Science\Excesive 2\Excesive 2\bin\Debug\Excesive 2.xml
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.vbprojResolveAssemblyReference.cache
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive_2._1.Form1.resources
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive_2._1.Resources.resources
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.vbproj.GenerateResource.Cache
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.vbproj.CoreCompileInputs.cache
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.exe
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.xml
+J:\vm\Computer Science\Excesive 2\Excesive 2\obj\Debug\Excesive 2.pdb

@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\bin\Debug\excercise1number digit.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\bin\Debug\excercise1number digit.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\bin\Debug\excercise1number digit.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\bin\Debug\excercise1number digit.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number_digit.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number_digit.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\excercise1number digit\excercise1number digit\obj\Debug\excercise1number digit.pdb

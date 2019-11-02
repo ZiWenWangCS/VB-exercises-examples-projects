@@ -1,0 +1,12 @@
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\bin\Debug\Exercise 4 PizzaCost.exe.config
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\bin\Debug\Exercise 4 PizzaCost.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\bin\Debug\Exercise 4 PizzaCost.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\bin\Debug\Exercise 4 PizzaCost.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.vbprojResolveAssemblyReference.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise_4_PizzaCost.Form1.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise_4_PizzaCost.Resources.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.vbproj.GenerateResource.Cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.vbproj.CoreCompileInputs.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 4 PizzaCost\obj\Debug\Exercise 4 PizzaCost.pdb

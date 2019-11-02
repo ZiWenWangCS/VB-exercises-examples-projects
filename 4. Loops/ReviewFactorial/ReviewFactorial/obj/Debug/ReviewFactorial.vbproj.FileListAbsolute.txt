@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\bin\Debug\ReviewFactorial.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\bin\Debug\ReviewFactorial.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\bin\Debug\ReviewFactorial.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\bin\Debug\ReviewFactorial.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\ReviewFactorial\ReviewFactorial\obj\Debug\ReviewFactorial.pdb

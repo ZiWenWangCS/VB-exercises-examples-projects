@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\bin\Debug\Exercise 11 Sandwich.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\bin\Debug\Exercise 11 Sandwich.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\bin\Debug\Exercise 11 Sandwich.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\bin\Debug\Exercise 11 Sandwich.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise_11_Sandwich.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise_11_Sandwich.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 11 Sandwich\Exercise 11 Sandwich\obj\Debug\Exercise 11 Sandwich.pdb

@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

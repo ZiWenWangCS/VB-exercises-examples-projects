@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\bin\Debug\Change Image.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\bin\Debug\Change Image.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\bin\Debug\Change Image.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\bin\Debug\Change Image.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change_Image.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change_Image.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\5. Color,Sound,And Graphics\Change Image\Change Image\obj\Debug\Change Image.pdb

@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\bin\Debug\Exercise 7 Change.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\bin\Debug\Exercise 7 Change.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\bin\Debug\Exercise 7 Change.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\bin\Debug\Exercise 7 Change.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise_7_Change.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise_7_Change.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise 7 Change.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise 7 Change.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise 7 Change.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise 7 Change.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 7 Change\Exercise 7 Change\obj\Debug\Exercise 7 Change.pdb

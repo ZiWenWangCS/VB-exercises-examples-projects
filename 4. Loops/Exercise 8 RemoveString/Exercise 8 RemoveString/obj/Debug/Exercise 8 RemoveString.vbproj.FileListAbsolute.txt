@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\bin\Debug\Exercise 8 RemoveString.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\bin\Debug\Exercise 8 RemoveString.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\bin\Debug\Exercise 8 RemoveString.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\bin\Debug\Exercise 8 RemoveString.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise_8_RemoveString.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise_8_RemoveString.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 8 RemoveString\Exercise 8 RemoveString\obj\Debug\Exercise 8 RemoveString.pdb

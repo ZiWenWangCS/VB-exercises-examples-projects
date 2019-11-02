@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise_5.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise_5.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\bin\Debug\Excercise 5.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\bin\Debug\Excercise 5.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\bin\Debug\Excercise 5.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\bin\Debug\Excercise 5.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 5\Excercise 5\obj\Debug\Excercise 5.pdb

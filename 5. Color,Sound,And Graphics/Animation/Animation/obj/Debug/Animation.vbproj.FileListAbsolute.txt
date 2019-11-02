@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\bin\Debug\Animation.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\bin\Debug\Animation.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\bin\Debug\Animation.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\bin\Debug\Animation.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Animation\Animation\obj\Debug\Animation.vbprojResolveAssemblyReference.cache

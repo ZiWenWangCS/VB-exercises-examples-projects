@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\bin\Debug\Exercise 6 chapter 5.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\bin\Debug\Exercise 6 chapter 5.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\bin\Debug\Exercise 6 chapter 5.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\bin\Debug\Exercise 6 chapter 5.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise_6_chapter_5.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise_6_chapter_5.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise 6 chapter 5.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise 6 chapter 5.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise 6 chapter 5.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise 6 chapter 5.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 6 chapter 5\Exercise 6 chapter 5\obj\Debug\Exercise 6 chapter 5.pdb

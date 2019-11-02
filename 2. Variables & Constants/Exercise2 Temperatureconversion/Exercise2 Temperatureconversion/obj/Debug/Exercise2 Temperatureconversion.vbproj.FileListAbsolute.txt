@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2_Temperatureconversion.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2_Temperatureconversion.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\bin\Debug\Exercise2 Temperatureconversion.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\bin\Debug\Exercise2 Temperatureconversion.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\bin\Debug\Exercise2 Temperatureconversion.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\bin\Debug\Exercise2 Temperatureconversion.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise2 Temperatureconversion\Exercise2 Temperatureconversion\obj\Debug\Exercise2 Temperatureconversion.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\bin\Debug\Using an input box.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\bin\Debug\Using an input box.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\bin\Debug\Using an input box.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\bin\Debug\Using an input box.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using_an_input_box.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using_an_input_box.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using an input box.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using an input box.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using an input box.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using an input box.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Using an input box\Using an input box\obj\Debug\Using an input box.pdb

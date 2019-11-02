@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1_obejectheight.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1_obejectheight.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\bin\Debug\Excercise1 obejectheight.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\bin\Debug\Excercise1 obejectheight.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\bin\Debug\Excercise1 obejectheight.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\bin\Debug\Excercise1 obejectheight.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Excercise1 obejectheight\Excercise1 obejectheight\obj\Debug\Excercise1 obejectheight.pdb

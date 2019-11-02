@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\bin\Debug\Exercise17SlotMachineGame.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\bin\Debug\Exercise17SlotMachineGame.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\bin\Debug\Exercise17SlotMachineGame.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\bin\Debug\Exercise17SlotMachineGame.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise17SlotMachineGame\Exercise17SlotMachineGame\obj\Debug\Exercise17SlotMachineGame.pdb

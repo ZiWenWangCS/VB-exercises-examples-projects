@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\bin\Debug\HelloWorldInternational.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\bin\Debug\HelloWorldInternational.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\bin\Debug\HelloWorldInternational.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\bin\Debug\HelloWorldInternational.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\HelloWorldInternational\HelloWorldInternational\obj\Debug\HelloWorldInternational.pdb

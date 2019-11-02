@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\bin\Debug\exercise11 withstatement.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\bin\Debug\exercise11 withstatement.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\bin\Debug\exercise11 withstatement.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\bin\Debug\exercise11 withstatement.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11_withstatement.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11_withstatement.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\exercise11 withstatement\exercise11 withstatement\obj\Debug\exercise11 withstatement.vbprojResolveAssemblyReference.cache

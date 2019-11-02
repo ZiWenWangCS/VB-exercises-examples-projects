@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\bin\Debug\Full Name pg 142.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\bin\Debug\Full Name pg 142.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\bin\Debug\Full Name pg 142.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\bin\Debug\Full Name pg 142.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full_Name_pg_142.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full_Name_pg_142.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\Full Name pg 142\Full Name pg 142\obj\Debug\Full Name pg 142.pdb

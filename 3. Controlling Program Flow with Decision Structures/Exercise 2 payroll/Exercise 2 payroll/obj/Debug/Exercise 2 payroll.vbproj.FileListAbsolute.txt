@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\bin\Debug\Exercise 2 payroll.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\bin\Debug\Exercise 2 payroll.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\bin\Debug\Exercise 2 payroll.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\bin\Debug\Exercise 2 payroll.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise_2_payroll.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise_2_payroll.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise 2 payroll.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise 2 payroll.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise 2 payroll.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise 2 payroll.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 2 payroll\Exercise 2 payroll\obj\Debug\Exercise 2 payroll.pdb

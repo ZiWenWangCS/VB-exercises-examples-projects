@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\bin\Debug\VacationDestinations.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\bin\Debug\VacationDestinations.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\bin\Debug\VacationDestinations.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\bin\Debug\VacationDestinations.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\VacationDestinations\VacationDestinations\obj\Debug\VacationDestinations.pdb

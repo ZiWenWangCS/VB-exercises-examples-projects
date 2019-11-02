@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\bin\Debug\Quiz Case.exe.config
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\bin\Debug\Quiz Case.exe
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\bin\Debug\Quiz Case.pdb
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\bin\Debug\Quiz Case.xml
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz_Case.Form1.resources
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz_Case.Resources.resources
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.exe
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.xml
+H:\Network Documents\Computer Science\4. Loops\Quiz Case\Quiz Case\obj\Debug\Quiz Case.pdb

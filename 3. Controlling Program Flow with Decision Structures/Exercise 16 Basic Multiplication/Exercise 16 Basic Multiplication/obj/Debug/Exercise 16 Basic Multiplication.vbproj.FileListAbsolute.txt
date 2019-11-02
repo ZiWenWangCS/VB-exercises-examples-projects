@@ -1,0 +1,12 @@
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\bin\Debug\Exercise 16 Basic Multiplication.exe.config
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\bin\Debug\Exercise 16 Basic Multiplication.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\bin\Debug\Exercise 16 Basic Multiplication.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\bin\Debug\Exercise 16 Basic Multiplication.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.vbprojResolveAssemblyReference.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise_16_Basic_Multiplication.Form1.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise_16_Basic_Multiplication.Resources.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.vbproj.GenerateResource.Cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.vbproj.CoreCompileInputs.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 16 Basic Multiplication\obj\Debug\Exercise 16 Basic Multiplication.pdb

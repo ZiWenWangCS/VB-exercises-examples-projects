@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Exercise6 BirdFlying", "Exercise6 BirdFlying\Exercise6 BirdFlying.vbproj", "{803508CC-3750-448F-BD6C-3E2E81322B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803508CC-3750-448F-BD6C-3E2E81322B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803508CC-3750-448F-BD6C-3E2E81322B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803508CC-3750-448F-BD6C-3E2E81322B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803508CC-3750-448F-BD6C-3E2E81322B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84E2279D-7511-490D-897C-45CC706A09BE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\bin\Debug\Review Face.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\bin\Debug\Review Face.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\bin\Debug\Review Face.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\bin\Debug\Review Face.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review_Face.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review_Face.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Face\Review Face\obj\Debug\Review Face.pdb

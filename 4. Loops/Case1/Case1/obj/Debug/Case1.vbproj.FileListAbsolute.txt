@@ -1,0 +1,24 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.pdb
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.exe.config
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.exe
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.pdb
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\bin\Debug\Case1.xml
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.Form1.resources
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.Resources.resources
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.exe
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.xml
+H:\Network Documents\Computer Science\4. Loops\Case1\Case1\obj\Debug\Case1.pdb

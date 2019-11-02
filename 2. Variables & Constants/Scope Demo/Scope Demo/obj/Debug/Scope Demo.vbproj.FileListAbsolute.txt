@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\bin\Debug\Scope Demo.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\bin\Debug\Scope Demo.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\bin\Debug\Scope Demo.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\bin\Debug\Scope Demo.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope_Demo.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope_Demo.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope Demo.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope Demo.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope Demo.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope Demo.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Scope Demo\Scope Demo\obj\Debug\Scope Demo.pdb

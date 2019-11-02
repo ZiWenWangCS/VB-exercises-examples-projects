@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\bin\Debug\Exercise 6 LongJumpAverage.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\bin\Debug\Exercise 6 LongJumpAverage.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\bin\Debug\Exercise 6 LongJumpAverage.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\bin\Debug\Exercise 6 LongJumpAverage.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise_6_LongJumpAverage.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise_6_LongJumpAverage.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 6 LongJumpAverage\Exercise 6 LongJumpAverage\obj\Debug\Exercise 6 LongJumpAverage.pdb

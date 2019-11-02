@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\bin\Debug\Review Try it Out.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\bin\Debug\Review Try it Out.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\bin\Debug\Review Try it Out.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\bin\Debug\Review Try it Out.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review_Try_it_Out.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review_Try_it_Out.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Try it Out\Review Try it Out\obj\Debug\Review Try it Out.pdb

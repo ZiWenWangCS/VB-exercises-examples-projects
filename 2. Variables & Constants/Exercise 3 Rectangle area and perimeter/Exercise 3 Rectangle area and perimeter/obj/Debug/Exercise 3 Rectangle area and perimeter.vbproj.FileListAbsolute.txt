@@ -1,0 +1,23 @@
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise_3_Rectangle_area_and_perimeter.Form1.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise_3_Rectangle_area_and_perimeter.Resources.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.vbproj.GenerateResource.Cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.vbproj.CoreCompileInputs.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.exe.config
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.pdb
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.exe.config
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.exe
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.pdb
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\bin\Debug\Exercise 3 Rectangle area and perimeter.xml
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.vbprojResolveAssemblyReference.cache
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise_3_Rectangle_area_and_perimeter.Form1.resources
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise_3_Rectangle_area_and_perimeter.Resources.resources
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.vbproj.GenerateResource.Cache
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.vbproj.CoreCompileInputs.cache
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.exe
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.xml
+J:\vm\Computer Science\Exercise 3 Rectangle area and perimeter\Exercise 3 Rectangle area and perimeter\obj\Debug\Exercise 3 Rectangle area and perimeter.pdb

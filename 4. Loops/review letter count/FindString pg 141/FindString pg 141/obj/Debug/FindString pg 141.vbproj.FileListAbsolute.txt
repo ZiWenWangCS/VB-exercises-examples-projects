@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\bin\Debug\FindString pg 141.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\bin\Debug\FindString pg 141.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\bin\Debug\FindString pg 141.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\bin\Debug\FindString pg 141.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString_pg_141.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString_pg_141.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString pg 141.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString pg 141.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString pg 141.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString pg 141.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\FindString pg 141\FindString pg 141\obj\Debug\FindString pg 141.pdb

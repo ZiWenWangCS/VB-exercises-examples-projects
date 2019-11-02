@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\bin\Debug\Circle Area.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\bin\Debug\Circle Area.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\bin\Debug\Circle Area.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\bin\Debug\Circle Area.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle_Area.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle_Area.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Circle Area\Circle Area\obj\Debug\Circle Area.pdb

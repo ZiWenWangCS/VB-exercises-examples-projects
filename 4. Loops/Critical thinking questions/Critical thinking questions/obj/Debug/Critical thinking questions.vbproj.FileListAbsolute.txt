@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\bin\Debug\Critical thinking questions.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\bin\Debug\Critical thinking questions.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\bin\Debug\Critical thinking questions.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\bin\Debug\Critical thinking questions.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical_thinking_questions.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical_thinking_questions.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Critical thinking questions\Critical thinking questions\obj\Debug\Critical thinking questions.pdb

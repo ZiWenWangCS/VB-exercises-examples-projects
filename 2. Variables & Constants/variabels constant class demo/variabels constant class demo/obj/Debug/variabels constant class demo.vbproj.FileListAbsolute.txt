@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\bin\Debug\variabels constant class demo.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\bin\Debug\variabels constant class demo.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\bin\Debug\variabels constant class demo.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\bin\Debug\variabels constant class demo.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels_constant_class_demo.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels_constant_class_demo.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels constant class demo.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels constant class demo.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels constant class demo.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels constant class demo.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\variabels constant class demo\variabels constant class demo\obj\Debug\variabels constant class demo.pdb

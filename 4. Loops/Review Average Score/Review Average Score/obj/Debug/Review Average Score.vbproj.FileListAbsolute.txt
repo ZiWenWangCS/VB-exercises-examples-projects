@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\bin\Debug\Review Average Score.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\bin\Debug\Review Average Score.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\bin\Debug\Review Average Score.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\bin\Debug\Review Average Score.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review_Average_Score.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review_Average_Score.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Review Average Score\Review Average Score\obj\Debug\Review Average Score.pdb

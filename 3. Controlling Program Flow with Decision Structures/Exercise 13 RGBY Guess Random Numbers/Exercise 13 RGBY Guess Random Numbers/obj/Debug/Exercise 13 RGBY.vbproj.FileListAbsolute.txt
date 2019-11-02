@@ -1,0 +1,12 @@
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\bin\Debug\Exercise 13 RGBY.exe.config
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\bin\Debug\Exercise 13 RGBY.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\bin\Debug\Exercise 13 RGBY.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\bin\Debug\Exercise 13 RGBY.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.vbprojResolveAssemblyReference.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise_13_RGBY.Form1.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise_13_RGBY.Resources.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.vbproj.GenerateResource.Cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.vbproj.CoreCompileInputs.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Exercise 13 RGBY\obj\Debug\Exercise 13 RGBY.pdb

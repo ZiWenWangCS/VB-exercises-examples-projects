@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\bin\Debug\Practice Statements.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\bin\Debug\Practice Statements.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\bin\Debug\Practice Statements.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\bin\Debug\Practice Statements.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice_Statements.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice_Statements.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Practice Statements\Practice Statements\obj\Debug\Practice Statements.pdb

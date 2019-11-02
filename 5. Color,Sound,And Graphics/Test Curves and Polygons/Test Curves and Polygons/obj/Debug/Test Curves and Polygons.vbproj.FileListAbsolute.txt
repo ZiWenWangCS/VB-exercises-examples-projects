@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\bin\Debug\Test Curves and Polygons.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\bin\Debug\Test Curves and Polygons.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\bin\Debug\Test Curves and Polygons.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\bin\Debug\Test Curves and Polygons.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test_Curves_and_Polygons.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test_Curves_and_Polygons.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Test Curves and Polygons\Test Curves and Polygons\obj\Debug\Test Curves and Polygons.pdb

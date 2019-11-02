@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\bin\Debug\SquareArea 2.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\bin\Debug\SquareArea 2.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\bin\Debug\SquareArea 2.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\bin\Debug\SquareArea 2.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea_2.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea_2.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\SquareArea 2\SquareArea 2\obj\Debug\SquareArea 2.pdb

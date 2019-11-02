@@ -1,0 +1,23 @@
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.exe.config
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.exe
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.pdb
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.xml
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\WindowsApp1.Form1.resources
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\WindowsApp1.Resources.resources
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.vbproj.GenerateResource.Cache
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.vbproj.CoreCompileInputs.cache
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.exe
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.xml
+J:\vm\Computer Science\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\bin\Debug\Exercise 8 Digits of A number.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\WindowsApp1.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\WindowsApp1.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 Digits of A number\Exercise 8 Digits of A number\obj\Debug\Exercise 8 Digits of A number.pdb

@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\bin\Debug\Blinky1.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\bin\Debug\Blinky1.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\bin\Debug\Blinky1.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\bin\Debug\Blinky1.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Blinky1\Blinky1\obj\Debug\Blinky1.pdb

@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\bin\Debug\FireFlyJoke.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\bin\Debug\FireFlyJoke.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\bin\Debug\FireFlyJoke.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\bin\Debug\FireFlyJoke.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\FireFlyJoke\FireFlyJoke\obj\Debug\FireFlyJoke.pdb

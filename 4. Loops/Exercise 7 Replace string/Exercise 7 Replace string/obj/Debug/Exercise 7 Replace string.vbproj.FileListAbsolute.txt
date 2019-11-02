@@ -1,0 +1,23 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise_7_Replace_string.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise_7_Replace_string.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.pdb
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.exe.config
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.exe
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.pdb
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\bin\Debug\Exercise 7 Replace string.xml
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise_7_Replace_string.Form1.resources
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise_7_Replace_string.Resources.resources
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.exe
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.xml
+H:\Network Documents\Computer Science\4. Loops\Exercise 7 Replace string\Exercise 7 Replace string\obj\Debug\Exercise 7 Replace string.pdb

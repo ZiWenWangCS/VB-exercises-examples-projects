@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Excercises 1 Grooming service", "Excercises 1 Grooming service\Excercises 1 Grooming service.vbproj", "{703CBFC1-C618-4594-86D6-1A725DB52B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703CBFC1-C618-4594-86D6-1A725DB52B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703CBFC1-C618-4594-86D6-1A725DB52B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703CBFC1-C618-4594-86D6-1A725DB52B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703CBFC1-C618-4594-86D6-1A725DB52B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43C7A3F9-0D89-4011-8E62-DE87C88E7B1A}
+	EndGlobalSection
+EndGlobal

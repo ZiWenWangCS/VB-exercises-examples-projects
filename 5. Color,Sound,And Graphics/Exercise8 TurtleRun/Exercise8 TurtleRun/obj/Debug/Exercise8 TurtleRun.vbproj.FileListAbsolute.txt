@@ -1,0 +1,11 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\bin\Debug\Exercise8 TurtleRun.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\bin\Debug\Exercise8 TurtleRun.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\bin\Debug\Exercise8 TurtleRun.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\bin\Debug\Exercise8 TurtleRun.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8_TurtleRun.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8_TurtleRun.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8 TurtleRun.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8 TurtleRun.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8 TurtleRun.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8 TurtleRun.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise8 TurtleRun\Exercise8 TurtleRun\obj\Debug\Exercise8 TurtleRun.pdb

@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\bin\Debug\RectangleArea.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\RectangleArea\RectangleArea\obj\Debug\RectangleArea.vbprojResolveAssemblyReference.cache

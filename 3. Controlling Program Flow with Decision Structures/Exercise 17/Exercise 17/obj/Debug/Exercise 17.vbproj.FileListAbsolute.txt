@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\bin\Debug\Exercise 17.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\bin\Debug\Exercise 17.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\bin\Debug\Exercise 17.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\bin\Debug\Exercise 17.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise_17.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise 17.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 17\Exercise 17\obj\Debug\Exercise_17.Form1.resources

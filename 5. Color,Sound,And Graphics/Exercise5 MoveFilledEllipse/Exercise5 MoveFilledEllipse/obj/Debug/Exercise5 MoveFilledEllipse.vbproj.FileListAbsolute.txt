@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\bin\Debug\Exercise5 MoveFilledEllipse.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\bin\Debug\Exercise5 MoveFilledEllipse.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\bin\Debug\Exercise5 MoveFilledEllipse.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\bin\Debug\Exercise5 MoveFilledEllipse.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5_MoveFilledEllipse.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5_MoveFilledEllipse.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise5 MoveFilledEllipse\Exercise5 MoveFilledEllipse\obj\Debug\Exercise5 MoveFilledEllipse.pdb

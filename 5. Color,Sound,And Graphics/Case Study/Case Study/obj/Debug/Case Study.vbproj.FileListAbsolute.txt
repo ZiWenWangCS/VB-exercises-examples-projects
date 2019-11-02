@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case_Study.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case_Study.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\bin\Debug\Case Study.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\bin\Debug\Case Study.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\bin\Debug\Case Study.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\bin\Debug\Case Study.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Case Study\Case Study\obj\Debug\Case Study.pdb

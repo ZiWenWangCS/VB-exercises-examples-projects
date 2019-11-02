@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\bin\Debug\Exercise 8 Phonebilll.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\bin\Debug\Exercise 8 Phonebilll.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\bin\Debug\Exercise 8 Phonebilll.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\bin\Debug\Exercise 8 Phonebilll.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise_8_Phonebilll.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise_8_Phonebilll.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Exercise 8 Phonebilll\Exercise 8 Phonebilll\obj\Debug\Exercise 8 Phonebilll.vbprojResolveAssemblyReference.cache

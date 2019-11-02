@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\bin\Debug\Review_Photo_Album.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\bin\Debug\Review_Photo_Album.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\bin\Debug\Review_Photo_Album.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\bin\Debug\Review_Photo_Album.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review_Photo_Album\Review_Photo_Album\obj\Debug\Review_Photo_Album.pdb

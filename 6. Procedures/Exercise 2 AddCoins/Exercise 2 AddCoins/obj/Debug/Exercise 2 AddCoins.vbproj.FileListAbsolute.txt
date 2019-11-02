@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\bin\Debug\Exercise 2 AddCoins.exe.config
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\bin\Debug\Exercise 2 AddCoins.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\bin\Debug\Exercise 2 AddCoins.pdb
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\bin\Debug\Exercise 2 AddCoins.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise_2_AddCoins.Form1.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise_2_AddCoins.Resources.resources
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.exe
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.xml
+H:\Network Documents\Computer Science\6. Procedures\Exercise 2 AddCoins\Exercise 2 AddCoins\obj\Debug\Exercise 2 AddCoins.pdb

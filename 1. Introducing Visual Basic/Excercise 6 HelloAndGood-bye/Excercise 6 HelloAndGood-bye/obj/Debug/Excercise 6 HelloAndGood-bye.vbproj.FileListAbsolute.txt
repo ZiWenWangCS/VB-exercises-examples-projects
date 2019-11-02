@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\bin\Debug\Excercise 6 HelloAndGood-bye.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\bin\Debug\Excercise 6 HelloAndGood-bye.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\bin\Debug\Excercise 6 HelloAndGood-bye.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\bin\Debug\Excercise 6 HelloAndGood-bye.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise_6_HelloAndGood_bye.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise_6_HelloAndGood_bye.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\1. Introducing Visual Basic\Excercise 6 HelloAndGood-bye\Excercise 6 HelloAndGood-bye\obj\Debug\Excercise 6 HelloAndGood-bye.pdb

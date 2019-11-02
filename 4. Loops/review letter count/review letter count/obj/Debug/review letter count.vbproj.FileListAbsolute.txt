@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\bin\Debug\review letter count.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\bin\Debug\review letter count.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\bin\Debug\review letter count.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\bin\Debug\review letter count.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.vbprojResolveAssemblyReference.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review_letter_count.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review_letter_count.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\4. Loops\review letter count\review letter count\obj\Debug\review letter count.pdb

@@ -1,0 +1,12 @@
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\bin\Debug\Excesive 2.1.exe.config
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\bin\Debug\Excesive 2.1.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\bin\Debug\Excesive 2.1.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\bin\Debug\Excesive 2.1.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive_2._1.Form1.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive_2._1.Resources.resources
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.vbproj.GenerateResource.Cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.vbproj.CoreCompileInputs.cache
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.exe
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.xml
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.pdb
+C:\Users\wangxiangbin\AppData\Local\Temporary Projects\Excesive 2.1\obj\Debug\Excesive 2.1.vbprojResolveAssemblyReference.cache

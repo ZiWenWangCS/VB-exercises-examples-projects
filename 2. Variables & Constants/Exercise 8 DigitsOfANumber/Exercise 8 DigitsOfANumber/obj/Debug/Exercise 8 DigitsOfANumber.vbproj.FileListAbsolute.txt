@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\bin\Debug\Exercise 8 DigitsOfANumber.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\bin\Debug\Exercise 8 DigitsOfANumber.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\bin\Debug\Exercise 8 DigitsOfANumber.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\bin\Debug\Exercise 8 DigitsOfANumber.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise_8_DigitsOfANumber.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise_8_DigitsOfANumber.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise 8 DigitsOfANumber.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise 8 DigitsOfANumber.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise 8 DigitsOfANumber.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise 8 DigitsOfANumber.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 8 DigitsOfANumber\Exercise 8 DigitsOfANumber\obj\Debug\Exercise 8 DigitsOfANumber.pdb

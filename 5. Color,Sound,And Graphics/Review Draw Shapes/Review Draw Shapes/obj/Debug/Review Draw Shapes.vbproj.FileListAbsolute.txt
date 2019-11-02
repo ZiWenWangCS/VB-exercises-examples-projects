@@ -1,0 +1,11 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\bin\Debug\Review Draw Shapes.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\bin\Debug\Review Draw Shapes.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\bin\Debug\Review Draw Shapes.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\bin\Debug\Review Draw Shapes.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review_Draw_Shapes.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review_Draw_Shapes.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review Draw Shapes.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review Draw Shapes.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review Draw Shapes.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review Draw Shapes.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Review Draw Shapes\Review Draw Shapes\obj\Debug\Review Draw Shapes.pdb

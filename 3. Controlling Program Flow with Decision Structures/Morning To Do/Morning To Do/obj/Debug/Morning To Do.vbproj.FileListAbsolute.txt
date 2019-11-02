@@ -1,0 +1,11 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning_To_Do.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning_To_Do.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning To Do.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning To Do.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\bin\Debug\Morning To Do.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\bin\Debug\Morning To Do.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\bin\Debug\Morning To Do.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\bin\Debug\Morning To Do.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning To Do.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning To Do.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\3. Controlling Program Flow with Decision Structures\Morning To Do\Morning To Do\obj\Debug\Morning To Do.pdb

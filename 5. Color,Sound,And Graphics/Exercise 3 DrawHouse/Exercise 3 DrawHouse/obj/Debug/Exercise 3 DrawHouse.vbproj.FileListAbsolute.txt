@@ -1,0 +1,12 @@
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\bin\Debug\Exercise 3 DrawHouse.exe.config
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\bin\Debug\Exercise 3 DrawHouse.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\bin\Debug\Exercise 3 DrawHouse.pdb
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\bin\Debug\Exercise 3 DrawHouse.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.vbprojResolveAssemblyReference.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise_3_DrawHouse.Form1.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise_3_DrawHouse.Resources.resources
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.vbproj.GenerateResource.Cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.vbproj.CoreCompileInputs.cache
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.exe
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.xml
+H:\Network Documents\Computer Science\5. Color,Sound,And Graphics\Exercise 3 DrawHouse\Exercise 3 DrawHouse\obj\Debug\Exercise 3 DrawHouse.pdb

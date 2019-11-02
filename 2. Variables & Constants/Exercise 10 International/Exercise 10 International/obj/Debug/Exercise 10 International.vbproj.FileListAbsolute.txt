@@ -1,0 +1,12 @@
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\bin\Debug\Exercise 10 International.exe.config
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\bin\Debug\Exercise 10 International.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\bin\Debug\Exercise 10 International.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\bin\Debug\Exercise 10 International.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise_10_International.Form1.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise_10_International.Resources.resources
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.vbproj.GenerateResource.Cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.vbproj.CoreCompileInputs.cache
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.exe
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.xml
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.pdb
+\\HSFS01\Home\Students\302963\Documents\Computer Science\2. Variables & Constants\Exercise 10 International\Exercise 10 International\obj\Debug\Exercise 10 International.vbprojResolveAssemblyReference.cache
